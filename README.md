@@ -1,5 +1,3 @@
-# MajlisKu
-
 # Deskripsi
 
 MajlisKu adalah aplikasi yang terbagi menjadi 2 jenis yakni MajlisKu dan MasjliKu-Admin, yang mana MajlisKu adalah aplikasi yang ditujukan untuk user sedangkan MajlisKu-Admin ditujukan untuk pengurus Masjid atau penyelenggara kegiatan. 
